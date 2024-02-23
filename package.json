@@ -9,7 +9,9 @@
   "categories": [
     "Other"
   ],
+  "repository": "https://github.com/w-xuefeng/vscode-extension-svg2base64",
   "activationEvents": [],
+  "publisher": "w-xuefeng",
   "icon": "assets/icon.png",
   "main": "./dist/extension.js",
   "contributes": {
